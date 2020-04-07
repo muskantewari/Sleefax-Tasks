@@ -1,0 +1,61 @@
+#div1{
+    height:300px;
+}
+.box1,
+.box2,
+.box3
+{
+    background-color: pink;
+    width: 400px;
+    margin-top: 10px;
+    margin-left: 20px;
+    border-radius: 5px;
+    height: 270px;
+    overflow: hidden;
+}
+#b1,
+#b2,
+#b3
+{
+display: inline-block;
+}
+#b4,
+#b5,
+#b6
+{
+display: inline-block;
+}
+.box4,
+.box5,
+.box6
+{
+    background-color: pink;
+    width: 400px;
+    margin-top: 10px;
+    margin-left: 20px;
+    border-radius: 5px;
+    height: 270px;
+    overflow: hidden;
+    display: inline-block;
+}
+.text {
+    background-color: blue;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-top: 115px;
+    margin-left: 170px;
+    border-radius: 20px;
+}
+
+.text:hover {
+    background-color: black;
+}
+
+#div2 {
+    position: absolute;
+    bottom: 30px;
+}
